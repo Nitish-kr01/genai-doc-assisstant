@@ -1,0 +1,8 @@
+streamlit
+fastapi
+uvicorn
+langchain
+faiss-cpu
+ollama
+PyMuPDF
+python-dotenv
